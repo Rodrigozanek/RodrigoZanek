@@ -19,5 +19,5 @@ Javascript | SQL | MySQL | Express | React.js | Redux | HTML | CSS | NodeJS
 <h2>
 Puedes contactarme por:
 </h2>
-E-mail: rodrigozanek22@gmail.com
+E-mail: rodrigozanek22@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/rodrigo-zanek-21623023b/
