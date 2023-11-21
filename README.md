@@ -1,8 +1,8 @@
 <h1>Hola!! mi nombre es Rodrigo</h1> 
 
-<h2>Estudiante de Henry apasionado por el desarrollo web.</h2>
+<h2>Graduado en Henry, apasionado por el desarrollo web.</h2>
 
-<h3>Tengo 30 años, actualmente graduado en Henry.</h3>
+<h3>Tengo 30 años.</h3>
 
 
 <h2>Sobre Mi:</h2>
